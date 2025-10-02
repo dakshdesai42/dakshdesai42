@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dakshdesai42
-- 👀 I’m interested in Machine learning mainly focusing on tbhe visual part of it 
+- 👀 I’m interested in Machine learning mainly focusing on the visual part of it 
 - 🌱 I’m currently doing my Computer Science
-- 💞️ I’m looking to collaborate on anything related to machine learning 
+-  I’m looking to collaborate on anything related to machine learning 
 
 
 
